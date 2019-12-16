@@ -11,6 +11,7 @@
 __all__ = ("_LinearConstraintData", "MatrixConstraint",
            "compile_block_linear_constraints",)
 
+
 import time
 import logging
 import array
